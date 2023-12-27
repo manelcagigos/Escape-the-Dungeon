@@ -4,7 +4,7 @@ This is one of the final projects that I did to one of my subjects of my CFGS st
 
 The project was about creating a mobile phone game using any language and motor that we wanted, I did this project mostly by myself but I did get some help of one of my classmates @leandroqros (he is the person that did the assets of the app, like the logo of the game or the background image of the main page of the game), in my case I used unity to create this game and all the code was writted in C# using Visual Studio 2019.
 
-Here you can watch a video that I made where I do a full playthrough of the game:
+Here you can watch a video that I did where I do a full playthrough of the game:
 https://youtu.be/IVNuAG7NWoo
 
 And here are some images of how the game looks on the phone:
