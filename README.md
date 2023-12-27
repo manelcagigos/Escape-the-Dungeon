@@ -2,7 +2,7 @@
 
 This is one of the final projects that I did to one of my subjects of my CFGS studies (find more about this studies here: [GitHub Repository about the studies and the projects I did](https://github.com/manelcagigos/Higher-degree-studies-projects)).
 
-The project was about creating a mobile phone game using any language and motor that we wanted, I did this project mostly by myself but I did get some help of one of my classmates @leandroqros (he is the person that did the assets of the app, like the logo of the game or the background image of the main page of the game), in my case I used unity to create this game and all the code was writted in C# using Visual Studio 2019.
+The project was about creating a mobile phone game using any language and motor that we wanted, I did this project mostly by myself but I did get some help of one of my classmates @leandroqros (he is the person that did the assets of the app, like the logo of the game or the background image of the main page of the game), in my case I used unity to create this game and all the code was writted in C# using Visual Studio 2019[^1].
 
 Here you can watch a video that I did where I do a full playthrough of the game:
 https://youtu.be/IVNuAG7NWoo
@@ -14,3 +14,5 @@ And here are some images of how the game looks on the phone:
 
 Logo of the game:
 ![icon](https://github.com/manelcagigos/Escape-the-Dungeon/assets/97809916/c4cc37de-19ca-44ff-9aae-321a4ba72309)
+
+[^1]: This is the video that I used to get the idea of what game to do and the tutorial I followed to create some parts of the game: https://youtu.be/20Tzx1nF6Q8.
