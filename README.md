@@ -13,4 +13,4 @@ And here are some images of how the game looks on the phone:
 ![1703703726395](https://github.com/manelcagigos/Escape-the-Dungeon/assets/97809916/e3724cf2-e952-4048-921e-61434f04b9fb)
 
 Logo of the game:
--  ![icon](https://github.com/manelcagigos/Escape-the-Dungeon/assets/97809916/c4cc37de-19ca-44ff-9aae-321a4ba72309)
+![icon](https://github.com/manelcagigos/Escape-the-Dungeon/assets/97809916/c4cc37de-19ca-44ff-9aae-321a4ba72309)
